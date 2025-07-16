@@ -49,7 +49,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/home.png)
+![Home Page](assets/Home.png)
 
 ### 🔐 Login Page
 ![Login Page](assets/Login.png)
